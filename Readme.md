@@ -5,7 +5,7 @@ Each task demonstrates how evolutionary computation can be applied to real-world
 
 ---
 
-## 🚀 Implemented Tasks
+## Implemented Tasks
 
 ### 1. Parking Allocation Optimization
 - *Goal:* Allocate parking spaces in a 10x10 lot for:
@@ -52,14 +52,14 @@ Each task demonstrates how evolutionary computation can be applied to real-world
 
 ---
 
-## 📂 Repository Structure
-📦 genetic-algorithms-optimization
-┣ 📜 Parking_Optimization.ipynb
-┣ 📜 Trading_Strategy.ipynb
-┣ 📜 Mafia_Escape.ipynb
-┣ 📜 README.md
+##  Repository Structure
+genetic-algorithms-optimization
+┣  Parking_Optimization.ipynb
+┣  Trading_Strategy.ipynb
+┣  Mafia_Escape.ipynb
+┣  README.md
 
-## 📊 Results
+## Results
 - Parking problem → optimized allocation that respects EV/disabled needs  
 - Trading problem → balanced strategy with reduced risk of drawdowns  
 - Escape problem → evolved strategies that improve survival chances
